@@ -1,5 +1,5 @@
 package Practica2;
 
-public class punto4 {
+public class punto3 {
 
 }
